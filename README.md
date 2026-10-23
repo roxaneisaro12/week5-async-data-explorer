@@ -47,3 +47,7 @@ The application uses one shared state object for product data, categories, loadi
 
 Favourite product IDs are saved in browser `localStorage`, so they remain available after a page refresh.
 
+## Screenshots
+There is a folder called screenshot that contains the screenshots needed for the assignment.
+
+## video
